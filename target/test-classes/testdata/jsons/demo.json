@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5816739,
+    "name": "Dhaanyalakshmi Dubashi Jr.",
+    "email": "dubashi_dhaanyalakshmi_jr@reichel.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 5816738,
+    "name": "Kama Adiga",
+    "email": "kama_adiga@bayer-keeling.example",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 5816737,
+    "name": "Arya Kaniyar IV",
+    "email": "kaniyar_iv_arya@howe.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 5816735,
+    "name": "Samir Malik",
+    "email": "samir_malik@cremin.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 5816734,
+    "name": "Sheela Acharya",
+    "email": "sheela_acharya@kessler.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 5816733,
+    "name": "Avadhesh Desai",
+    "email": "desai_avadhesh@king.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 5816731,
+    "name": "Rev. Chanakya Varman",
+    "email": "varman_rev_chanakya@roberts.test",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 5816727,
+    "name": "Ekdant Nayar",
+    "email": "ekdant_nayar@corkery.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 5816726,
+    "name": "Baalaaditya Pilla",
+    "email": "baalaaditya_pilla@huels-cummings.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 5816724,
+    "name": "Devagya Dhawan",
+    "email": "dhawan_devagya@kulas.test",
+    "gender": "male",
+    "status": "inactive"
+  }
+]

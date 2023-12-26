@@ -1,0 +1,15 @@
+[
+{
+"name":"reyaz",
+"rollNo":43,
+"isTester":true,
+"hobbies":["watching tv","gardening"]
+}
+,
+{
+"name":"sampath",
+"rollNo":53,
+"isTester":false,
+"hobbies":["photography","cooking"]
+}
+]
