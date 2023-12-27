@@ -19,7 +19,7 @@ public class ExcelWrite {
 		
 		//case1 : modfying an exiting ceel
 		
-		//ws.getRow(1).getCell(1).setCellValue("Old Live Tech");
+		ws.getRow(1).getCell(1).setCellValue("New Live Tech");
 		
 		//case 2: creating a cell in existing row
 		
@@ -27,7 +27,7 @@ public class ExcelWrite {
 		
 		//case 3
 		
-		ws.createRow(4).createCell(0).setCellValue(false);
+		//ws.createRow(4).createCell(0).setCellValue(false);
 		
 		FileOutputStream fos=new FileOutputStream("D:\\007 LiveTech\\jars\\xyz\\Book1.xlsx");
 		
