@@ -20,7 +20,7 @@ public class BaseTest {
 	
 	public static FileInputStream fis1;
 	public static Properties configProp;
-	public WebDriver driver;
+	public static WebDriver driver;
 	
 	public static FileInputStream fis2;
 	public static Properties locatorProp;
@@ -45,7 +45,7 @@ public class BaseTest {
 		}
 	}
 	
-	//@BeforeMethod
+	@BeforeMethod
 	public void setUp() throws IOException
 	{
 		fis1=new FileInputStream("config.properties");
@@ -82,7 +82,7 @@ public class BaseTest {
 		
 	}
 
-	//@AfterMethod
+	@AfterMethod
 	public void teardown()
 	{
 		try {
