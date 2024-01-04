@@ -8,5 +8,7 @@ public class BasePage extends BaseTest {
 	{
 		Assert.assertEquals(driver.getTitle(), expTitle);
 	}
+	
+
 
 }
